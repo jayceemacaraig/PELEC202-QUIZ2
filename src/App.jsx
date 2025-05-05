@@ -2,7 +2,7 @@ import React, { useState, useRef } from "react";
 import BookCard from "./components/BookCard";
 import useFetchBooks from "./hook/useFetchBooks";
 import LoadingScreen from "./components/LoadingScreen";
-import InputSection from "./components/inputSection";
+import InputSection from "./components/InputSection";
 import Hero from "./components/Hero";
 
 function App() {
